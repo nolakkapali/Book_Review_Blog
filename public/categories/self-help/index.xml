@@ -1,0 +1,19 @@
+<?xml version="1.0" encoding="utf-8" standalone="yes"?>
+<rss version="2.0" xmlns:atom="http://www.w3.org/2005/Atom">
+  <channel>
+    <title>Self-Help on Book Review Blog</title>
+    <link>http://localhost:1313/categories/self-help/</link>
+    <description>Recent content in Self-Help on Book Review Blog</description>
+    <generator>Hugo</generator>
+    <language>en-us</language>
+    <lastBuildDate>Wed, 08 Oct 2025 00:00:00 +0000</lastBuildDate>
+    <atom:link href="http://localhost:1313/categories/self-help/index.xml" rel="self" type="application/rss+xml" />
+    <item>
+      <title>Atomic Habits</title>
+      <link>http://localhost:1313/reviews/book1/</link>
+      <pubDate>Wed, 08 Oct 2025 00:00:00 +0000</pubDate>
+      <guid>http://localhost:1313/reviews/book1/</guid>
+      <description>&lt;p&gt;&lt;img src=&#34;http://localhost:1313/images/atomic-habits.jpg&#34; alt=&#34;book1&#34;&gt;&lt;/p&gt;&#xA;&lt;p&gt;&lt;strong&gt;Summary:&lt;/strong&gt;&lt;br&gt;&#xA;Atomic Habits is a practical guide to building good habits and breaking bad ones.&#xA;hugo&lt;/p&gt;&#xA;&lt;p&gt;&lt;strong&gt;My Review:&lt;/strong&gt;&lt;br&gt;&#xA;This book changed my mindset about personal growth.&lt;/p&gt;&#xA;&lt;p&gt;&lt;strong&gt;Favorite Quote:&lt;/strong&gt;&lt;/p&gt;&#xA;&lt;blockquote&gt;&#xA;&lt;p&gt;&amp;ldquo;You do not rise to the level of your goals, you fall to the level of your systems.&amp;rdquo;&lt;/p&gt;&lt;/blockquote&gt;</description>
+    </item>
+  </channel>
+</rss>

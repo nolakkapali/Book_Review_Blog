@@ -1,0 +1,31 @@
+baseURL = 'https://book-review-blog.org/'
+languageCode = 'en-us'
+title = 'Book Review Blog'
+theme = 'paper'
+
+[menu]
+  [[menu.main]]
+    name = "About"
+    url = "/about/"
+    weight = 1
+
+  [[menu.main]]
+    name = "Contact"
+    url = "/contact/"
+    weight = 2
+
+
+[params]
+customCSS = ['css/customs.css']
+
+color = 'linen'                         
+
+twitter = 'YOUR_TWITTER_ID'               
+github = 'YOUR_GITHUB_ID'                 
+instagram = 'YOUR_INSTAGRAM_ID'    
+
+avatar = 'GRAVATAR_EMAIL'               
+name = 'YOUR_NAME'
+bio = 'YOUR_BIO'
+
+favicon = "favicon.ico" 

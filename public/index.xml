@@ -1,0 +1,96 @@
+<?xml version="1.0" encoding="utf-8" standalone="yes"?>
+<rss version="2.0" xmlns:atom="http://www.w3.org/2005/Atom">
+  <channel>
+    <title>Book Review Blog</title>
+    <link>http://localhost:1313/</link>
+    <description>Recent content on Book Review Blog</description>
+    <generator>Hugo</generator>
+    <language>en-us</language>
+    <lastBuildDate>Wed, 08 Oct 2025 20:00:00 +0600</lastBuildDate>
+    <atom:link href="http://localhost:1313/index.xml" rel="self" type="application/rss+xml" />
+    <item>
+      <title>About</title>
+      <link>http://localhost:1313/about/</link>
+      <pubDate>Wed, 08 Oct 2025 20:00:00 +0600</pubDate>
+      <guid>http://localhost:1313/about/</guid>
+      <description>&lt;p&gt;Welcome to My Book Reviews! Here I share detailed reviews of books I’ve read, including summaries, insights, and personal thoughts.&lt;/p&gt;</description>
+    </item>
+    <item>
+      <title>Contact</title>
+      <link>http://localhost:1313/contact/</link>
+      <pubDate>Wed, 08 Oct 2025 20:00:00 +0600</pubDate>
+      <guid>http://localhost:1313/contact/</guid>
+      <description>&lt;p&gt;You can reach me via email: &lt;a href=&#34;mailto:nk@gmail.com&#34;&gt;nk@gmail.com&lt;/a&gt;&lt;/p&gt;</description>
+    </item>
+    <item>
+      <title>Atomic Habits</title>
+      <link>http://localhost:1313/reviews/book1/</link>
+      <pubDate>Wed, 08 Oct 2025 00:00:00 +0000</pubDate>
+      <guid>http://localhost:1313/reviews/book1/</guid>
+      <description>Atomic Habits is a practical guide to building good habits and breaking bad ones.</description>
+    </item>
+    <item>
+      <title>Deep Work</title>
+      <link>http://localhost:1313/reviews/book3/</link>
+      <pubDate>Wed, 08 Oct 2025 00:00:00 +0000</pubDate>
+      <guid>http://localhost:1313/reviews/book3/</guid>
+      <description>&amp;ldquo;Deep Work&amp;rdquo; emphasizes the importance of focused work without distractions. Newport explains how cultivating the ability to focus deeply is a superpower in today’s economy.</description>
+    </item>
+    <item>
+      <title>Grit: The Power of Passion and Perseverance</title>
+      <link>http://localhost:1313/reviews/book8/</link>
+      <pubDate>Wed, 08 Oct 2025 00:00:00 +0000</pubDate>
+      <guid>http://localhost:1313/reviews/book8/</guid>
+      <description>Duckworth explores why talent alone does not guarantee success. She emphasizes &lt;strong&gt;grit&lt;/strong&gt;—a combination of passion and perseverance—as the key predictor of achievement.</description>
+    </item>
+    <item>
+      <title>Principles: Life and Work</title>
+      <link>http://localhost:1313/reviews/book10/</link>
+      <pubDate>Wed, 08 Oct 2025 00:00:00 +0000</pubDate>
+      <guid>http://localhost:1313/reviews/book10/</guid>
+      <description>Billionaire investor Ray Dalio shares the guiding principles that helped him build Bridgewater Associates into one of the world’s most successful hedge funds.</description>
+    </item>
+    <item>
+      <title>Sapiens: A Brief History of Humankind</title>
+      <link>http://localhost:1313/reviews/book6/</link>
+      <pubDate>Wed, 08 Oct 2025 00:00:00 +0000</pubDate>
+      <guid>http://localhost:1313/reviews/book6/</guid>
+      <description>&amp;ldquo;Sapiens&amp;rdquo; traces the history of Homo sapiens from the emergence of cognitive abilities to the modern era. Harari combines anthropology, history, and sociology to explain how humans shaped the world and themselves</description>
+    </item>
+    <item>
+      <title>The 7 Habits of Highly Effective People</title>
+      <link>http://localhost:1313/reviews/book2/</link>
+      <pubDate>Wed, 08 Oct 2025 00:00:00 +0000</pubDate>
+      <guid>http://localhost:1313/reviews/book2/</guid>
+      <description>This book provides a principle-centered approach for solving personal and professional problems. Covey presents a holistic, integrated, principle-centered approach for achieving personal and interpersonal effectiveness</description>
+    </item>
+    <item>
+      <title>The Lean Startup</title>
+      <link>http://localhost:1313/reviews/book4/</link>
+      <pubDate>Wed, 08 Oct 2025 00:00:00 +0000</pubDate>
+      <guid>http://localhost:1313/reviews/book4/</guid>
+      <description>The Lean Startup introduces a methodology for developing businesses and products efficiently. It emphasizes validated learning, rapid experimentation, and pivoting.</description>
+    </item>
+    <item>
+      <title>The Power of Habit</title>
+      <link>http://localhost:1313/reviews/book7/</link>
+      <pubDate>Wed, 08 Oct 2025 00:00:00 +0000</pubDate>
+      <guid>http://localhost:1313/reviews/book7/</guid>
+      <description>Charles Duhigg explains the science of habits and how they influence our personal lives, businesses, and society. He introduces the habit loop (cue, routine, reward) and strategies to change habits.</description>
+    </item>
+    <item>
+      <title>Thinking, Fast and Slow</title>
+      <link>http://localhost:1313/reviews/book5/</link>
+      <pubDate>Wed, 08 Oct 2025 00:00:00 +0000</pubDate>
+      <guid>http://localhost:1313/reviews/book5/</guid>
+      <description>This book explores the dual systems of the human mind: System 1 (fast, intuitive) and System 2 (slow, deliberate). Kahneman explains how these systems shape our judgments, decisions, and behaviors in everyday life.</description>
+    </item>
+    <item>
+      <title>Zero to One</title>
+      <link>http://localhost:1313/reviews/book9/</link>
+      <pubDate>Wed, 08 Oct 2025 00:00:00 +0000</pubDate>
+      <guid>http://localhost:1313/reviews/book9/</guid>
+      <description>Peter Thiel shares lessons from building startups and creating breakthrough innovations. The book emphasizes doing something new (&amp;ldquo;Zero to One&amp;rdquo;) rather than copying existing ideas.</description>
+    </item>
+  </channel>
+</rss>
