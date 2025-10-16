@@ -3,7 +3,7 @@ name: Deploy Hugo site to GitHub Pages
 on:
   push:
     branches:
-      - main  # main branch এ push হলেই run হবে
+      - main  
 
 jobs:
   build:

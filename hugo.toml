@@ -2,6 +2,7 @@ baseURL = 'https://nolakkapali.github.io/Book_Review_Blog/'
 languageCode = 'en-us'
 title = 'Book Review Blog'
 theme = 'paper'
+publishDir = 'docs'
 
 [menu]
   [[menu.main]]
